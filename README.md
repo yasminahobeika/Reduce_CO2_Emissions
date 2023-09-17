@@ -95,10 +95,14 @@ By implementing these recommendations, we can collectively contribute to the red
 
 
 ## References
-[1] Mathurin Ach´e. Extreme poverty. https://www.kaggle.com/datasets/mathurinache/extreme-poverty, Year Accessed.
+[1] Mathurin Ach´e. Extreme poverty. [Source](https://www.kaggle.com/datasets/mathurinache/extreme-poverty). Year Accessed.
+
 [2] CountryCallingCodes. ISO country codes (ISO-3166), continent codes, and ccTLDs.
-[3] Monica Crippa, Diego Guizzardi, Manfredi Banja, Efisio Solazzo, Mihaela Muntean, Emily Schaaf, Francesco Pagani, Fabio Monforti-Ferrario, Jos Olivier, Roberta Quadrelli, Alvaro Risquez Martin, Pouya Taghavi-Moharami, Giacomo Grassi, Simone Rossi, Duarte Jacome Felix Oom, Ana Branco, Jesus San-Miguel-Ayanz, and Elisabetta Vignati. Co2 emissions of all world countries - jrc/iea/pbl
-2022 report. EUR 31182 EN, 2022. JRC130363.
+
+[3] Monica Crippa, Diego Guizzardi, Manfredi Banja, Efisio Solazzo, Mihaela Muntean, Emily Schaaf, Francesco Pagani, Fabio Monforti-Ferrario, Jos Olivier, Roberta Quadrelli, Alvaro Risquez Martin, Pouya Taghavi-Moharami, Giacomo Grassi, Simone Rossi, Duarte Jacome Felix Oom, Ana Branco, Jesus San-Miguel-Ayanz, and Elisabetta Vignati. Co2 emissions of all world countries - jrc/iea/pbl 2022 report. EUR 31182 EN, 2022. JRC130363.
+
 [4] MoreTrees.eco. Why is carbon dioxide harmful to the environment?, 2020.
+
 [5] C. Nunez. Carbon dioxide levels are at a record high. here’s what you need to know. National Geographic, May 2019.
-[6] Hannah Ritchie, Max Roser, and Pablo Rosado. Co and greenhouse gas emissions. Our World in Data, 2020. https://ourworldindata.org/co2-and-greenhouse-gas-emissions.
+
+[6] Hannah Ritchie, Max Roser, and Pablo Rosado. Co and greenhouse gas emissions. Our World in Data, 2020. [Source](https://ourworldindata.org/co2-and-greenhouse-gas-emissions).
