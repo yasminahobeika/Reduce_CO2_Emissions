@@ -13,6 +13,7 @@ mitigate the environmental challenges we face.
 ## Data Modeling and Preparation
 ###  Conceptual Entity-Relationship and Logical Snowflake schema
 After constructing the ER schema using JMerise, the logical snowflake schema was derived from the conversion of the MCD file, as illustrated in this figure. More details in the report.
+
 ![alt text](snowflake-annotated.png)
 
 ### Data Preparation
