@@ -13,10 +13,12 @@ mitigate the environmental challenges we face.
 ## Data Modeling and Preparation
 ###  Conceptual Entity-Relationship and Logical Snowflake schema
 After constructing the ER schema using JMerise, the logical snowflake schema was derived from the conversion of the MCD file, as illustrated in this figure. More details in the report.
+![alt text](snowflake annotated.png)
 
 ### Data Preparation
 Upon examining the three datasets, I determined the time periods covered by each of them. The first dataset, ”CO2 and Greenhouse Gas Emissions,” spans from 1750 to 2021, providing a comprehensive historical perspective. The second dataset, ”Extreme Poverty,” covers the years from 1981 to 2021,
 offering a more recent focus on poverty-related data. Lastly, the dataset titled ”CO2 emissions of all world countries” encompasses the years from 1970 to 2021, providing a broader range of information
 on CO2 emissions. To ensure a meaningful intersection among the datasets and minimize the presence of missing values, I made the decision to retain only the observations from 1981 to 2021. This
 narrower time frame allows for a consistent and aligned analysis across the datasets, enabling effective comparison and exploration of the data. With the data aligned in terms of time period, I proceeded
-to analyze each dataset individually. Extensive details about each source of data are mentioned in the report, The full code is here Data Preparation Code.ipynb.
+to analyze each dataset individually. Extensive details about each source of data are mentioned in the report, The full code is in Data Preparation Code file.
+
