@@ -27,27 +27,27 @@ In Tableau, I did a story where I show all my plots and dashboards, I just inclu
 ### Insights
 The visual representation in the figure below illustrates the global distribution of average CO2 emissions on a world map, specifically focusing on data from the year 2000 onward. This chart is showing the increase of carbon dioxide emissions over the world as the blue color is getting darker and darker over the years in most of the countries (clear in the Tableau file while running the video). The map highlights the significant role played by a country's level of development in contributing to CO2 emissions. Developed countries, such as China, tend to have the highest levels of CO2 emissions and have consistently ranked at the top for the past two decades. India is also a major contributor to CO2 emissions and faces significant challenges in addressing this issue. Russia is also playing an important role in the increase of CO2 emission in the last 10 years. 
 
-![alt text](Images\story1.png)
+![alt text](Images/story1.png)
 
 In the figure below, the most problematic countries occupy the most significant area. Each country is represented by blocks of varying colors and sizes, arranged in order of severity from the top-left corner to the bottom-left corner. From 1981 till 2005, the United states were leading, but China was growing step by step. After 2006, China stands out as the leading contributor to global CO2 emissions, followed by the United States in second place, followed by India in third place. The percentage next to each country represent its global share of CO2. China, United States, India, Russia and Japan account for more than 50\% of the whole CO2 emission over the world. This plot also proves the increase of CO2 emission over the world from 1981 till 2021 since the big square is getting bigger and bigger (clear in the Tableau file while running the video).
 
-![alt text](Images\story2.png)
+![alt text](Images/story2.png)
 
 Taking a different perspective, it's interesting to observe that the countries with the highest CO2 emissions (over all the years from 1981 till 2021) are predominantly the developed nations, which coincidentally have higher income levels, as shown in the figure below. This correlation suggests a strong link between economic prosperity and carbon emissions.
 
-![alt text](Images\story3.png)
+![alt text](Images/story3.png)
 
 The first graph in the figure below showcases a strong positive correlation between economic growth and CO2 emissions. As the GDP of a country is higher, so does its CO2 emissions. When hovering over a scatter dot, we can observe the average CO2 emissions per capita and CO2 emissions per gdp over the years for that specific country. For instance, China has experienced a significant surge in CO2 emissions per capita over the past decade, while we see in the Covid period a decrease in CO2 per GDP, probably because industries and transportation means were closed. Additionally, the graph highlights the percentage change in CO2 emissions over the last 10 years. China's percentage change reveals a constant increase. 
 
-![alt text](Images\story4.png)
+![alt text](Images/story4.png)
 
 Let us examine both the fuel type and sector dimensions over the years. As we embark on this exploration, shown in the figure below a clear narrative begins to emerge. Coal stands out prominently as the dominant fuel type, consistently maintaining its leading position throughout the years. Similarly, the Power Industry emerges as the prominent sector, demonstrating a sustained influence on CO2 emissions over time. When we shift our focus to the countries contributing to CO2 emissions, a striking revelation awaits us. China, a powerhouse in both production and population, emerges as the primary behind coal-related emissions. With a staggering total of 7,956 million tons emitted by coal, China's significant contribution accounts for nearly half of the global coal-related CO2 emissions. In comparison, the rest of the world combined amounts to 15,861 million tons—a noteworthy disparity. Furthermore, an intriguing correlation emerges as we analyze the top-ranking countries in terms of both fuel type and sector. The top five countries leading in CO2 emissions align remarkably across both dimensions. This convergence underscores the critical role these nations play in the global CO2 landscape, emphasizing their responsibility and potential impact in mitigating CO2 emissions. These findings highlight the imperative for concerted efforts from these top-ranking countries to address and reduce CO2 emissions. With their substantial contributions to both the fuel type and sector emissions, these nations hold significant potential for implementing effective strategies and initiatives aimed at curbing CO2 output.
 
-![alt text](Images\story5.png)
+![alt text](Images/story5.png)
 
 CO2 plays a central role in driving global climate change, but it's important to recognize that it is not the sole greenhouse gas responsible for this phenomenon. Other greenhouse gases, such as methane (CH4) and nitrous oxide (N2O), also contribute significantly to global warming. Understanding the relative contributions of these gases is essential in addressing climate change effectively. By analyzing the percentage of CO2 emissions compared to other greenhouse gases, we can gain valuable insights. Over the years, the percentage of CO2 emissions has been steadily increasing. In 1981, CO2 accounted for 60.4\% of total greenhouse gas emissions, and by 2021, this figure rose to 74.56\% as shown  in the figure below. In addition to the increasing percentage of CO2 emissions compared to other greenhouse gases, it is noteworthy that the overall quantity of greenhouse gas (GHG) emissions is also on the rise.  This means that not only is the proportion of CO2 emissions rising, but the overall quantity of GHG emissions is also growing. This upward trend underscores the urgent need to reduce CO2 emissions as a crucial step in mitigating the impact of greenhouse gases on our climate. In the second graph, we observe the temperature effects generated by different greenhouse gases. It is evident that CO2 contributes to higher temperature changes compared to CH4 and N2O. This finding highlights the significant role of CO2 as the most potent greenhouse gas driving climate change. It underscores the imperative for immediate action to curb CO2 emissions and address the primary driver of global warming.
 
-![alt text](Images\story6.png)
+![alt text](Images/story7.png)
 
 ### Recommendations
 #### Government and Policy Makers
