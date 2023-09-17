@@ -19,4 +19,4 @@ Upon examining the three datasets, I determined the time periods covered by each
 offering a more recent focus on poverty-related data. Lastly, the dataset titled ”CO2 emissions of all world countries” encompasses the years from 1970 to 2021, providing a broader range of information
 on CO2 emissions. To ensure a meaningful intersection among the datasets and minimize the presence of missing values, I made the decision to retain only the observations from 1981 to 2021. This
 narrower time frame allows for a consistent and aligned analysis across the datasets, enabling effective comparison and exploration of the data. With the data aligned in terms of time period, I proceeded
-to analyze each dataset individually. Extensive details about each source of data are mentioned in the report, The full code is here.
+to analyze each dataset individually. Extensive details about each source of data are mentioned in the report, The full code is here Data Preparation Code.ipynb.
